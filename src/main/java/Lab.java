@@ -46,7 +46,6 @@ public class Lab {
         for(int i = start; i < end; i++) {
             buildingString = buildingString + i + " ";
         }
-        
         return buildingString;
     }
 }
